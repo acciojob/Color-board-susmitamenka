@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body {
-  background-color: #111;
+  background-color: rgb(29, 29, 29);
   display: flex;
   justify-content: center;
   align-items: center;
